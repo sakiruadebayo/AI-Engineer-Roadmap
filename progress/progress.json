@@ -1,41 +1,204 @@
 {
-  "lastUpdated": "2026-03-17T07:41:56.489Z",
-  "totalCompleted": 0,
-  "totalTopics": 32,
-  "percentComplete": 0,
-  "completedTopics": {
-    "0-0": false
-  },
+  "lastUpdated": "2026-03-17T08:11:22.952Z",
+  "totalDone": 1,
+  "totalSubtopics": 157,
+  "percentComplete": 1,
   "months": [
     {
       "month": 1,
       "title": "Close the Python Gap",
-      "progress": "0/5"
+      "topics": [
+        {
+          "name": "Python OOP & clean functions",
+          "done": 1,
+          "total": 5
+        },
+        {
+          "name": "Working with APIs (requests library)",
+          "done": 0,
+          "total": 5
+        },
+        {
+          "name": "Async/await patterns",
+          "done": 0,
+          "total": 4
+        },
+        {
+          "name": "FastAPI — build a REST API",
+          "done": 0,
+          "total": 7
+        },
+        {
+          "name": "Git & GitHub daily workflow",
+          "done": 0,
+          "total": 5
+        }
+      ]
     },
     {
       "month": 2,
       "title": "LLM App Development",
-      "progress": "0/6"
+      "topics": [
+        {
+          "name": "Prompting techniques & system prompts",
+          "done": 0,
+          "total": 5
+        },
+        {
+          "name": "Tool / function calling",
+          "done": 0,
+          "total": 5
+        },
+        {
+          "name": "Structured outputs with Pydantic",
+          "done": 0,
+          "total": 5
+        },
+        {
+          "name": "Streaming responses",
+          "done": 0,
+          "total": 4
+        },
+        {
+          "name": "Token economics & cost awareness",
+          "done": 0,
+          "total": 5
+        },
+        {
+          "name": "CV/JD Matcher project",
+          "done": 0,
+          "total": 5
+        }
+      ]
     },
     {
       "month": 3,
       "title": "RAG Systems",
-      "progress": "0/6"
+      "topics": [
+        {
+          "name": "Embeddings & semantic search",
+          "done": 0,
+          "total": 5
+        },
+        {
+          "name": "Vector databases (ChromaDB / Pinecone)",
+          "done": 0,
+          "total": 5
+        },
+        {
+          "name": "Chunking strategies",
+          "done": 0,
+          "total": 5
+        },
+        {
+          "name": "Reranking & retrieval quality",
+          "done": 0,
+          "total": 5
+        },
+        {
+          "name": "Hallucination reduction techniques",
+          "done": 0,
+          "total": 5
+        },
+        {
+          "name": "UK economic indicators RAG app",
+          "done": 0,
+          "total": 5
+        }
+      ]
     },
     {
       "month": 4,
       "title": "Agents & Evals",
-      "progress": "0/5"
+      "topics": [
+        {
+          "name": "Agent loops & reasoning patterns",
+          "done": 0,
+          "total": 5
+        },
+        {
+          "name": "Tool selection & multi-step workflows",
+          "done": 0,
+          "total": 5
+        },
+        {
+          "name": "Evaluation frameworks",
+          "done": 0,
+          "total": 6
+        },
+        {
+          "name": "Retries, fallbacks & error handling",
+          "done": 0,
+          "total": 5
+        },
+        {
+          "name": "LangGraph / agent orchestration",
+          "done": 0,
+          "total": 5
+        }
+      ]
     },
     {
       "month": 5,
       "title": "Deploy & Reliability",
-      "progress": "0/5"
+      "topics": [
+        {
+          "name": "Docker & containerisation",
+          "done": 0,
+          "total": 5
+        },
+        {
+          "name": "Observability & logging (LangSmith)",
+          "done": 0,
+          "total": 5
+        },
+        {
+          "name": "Caching strategies",
+          "done": 0,
+          "total": 4
+        },
+        {
+          "name": "Queue-based async tasks",
+          "done": 0,
+          "total": 4
+        },
+        {
+          "name": "Cost monitoring & optimisation",
+          "done": 0,
+          "total": 5
+        }
+      ]
     },
     {
       "month": 6,
       "title": "Specialise & Ship",
-      "progress": "0/5"
+      "topics": [
+        {
+          "name": "Govtech / public sector AI lane",
+          "done": 0,
+          "total": 4
+        },
+        {
+          "name": "Polish 2–3 portfolio projects",
+          "done": 0,
+          "total": 5
+        },
+        {
+          "name": "Write case studies & README docs",
+          "done": 0,
+          "total": 5
+        },
+        {
+          "name": "LinkedIn presence & build in public",
+          "done": 0,
+          "total": 4
+        },
+        {
+          "name": "Apply, interview prep, take-homes",
+          "done": 0,
+          "total": 5
+        }
+      ]
     }
   ]
 }
