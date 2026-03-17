@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-03-17T07:41:28.310Z",
-  "totalCompleted": 1,
+  "lastUpdated": "2026-03-17T07:41:56.489Z",
+  "totalCompleted": 0,
   "totalTopics": 32,
-  "percentComplete": 3,
+  "percentComplete": 0,
   "completedTopics": {
-    "0-0": true
+    "0-0": false
   },
   "months": [
     {
       "month": 1,
       "title": "Close the Python Gap",
-      "progress": "1/5"
+      "progress": "0/5"
     },
     {
       "month": 2,
