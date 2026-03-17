@@ -1,0 +1,41 @@
+{
+  "lastUpdated": "2026-03-17T07:41:28.310Z",
+  "totalCompleted": 1,
+  "totalTopics": 32,
+  "percentComplete": 3,
+  "completedTopics": {
+    "0-0": true
+  },
+  "months": [
+    {
+      "month": 1,
+      "title": "Close the Python Gap",
+      "progress": "1/5"
+    },
+    {
+      "month": 2,
+      "title": "LLM App Development",
+      "progress": "0/6"
+    },
+    {
+      "month": 3,
+      "title": "RAG Systems",
+      "progress": "0/6"
+    },
+    {
+      "month": 4,
+      "title": "Agents & Evals",
+      "progress": "0/5"
+    },
+    {
+      "month": 5,
+      "title": "Deploy & Reliability",
+      "progress": "0/5"
+    },
+    {
+      "month": 6,
+      "title": "Specialise & Ship",
+      "progress": "0/5"
+    }
+  ]
+}
