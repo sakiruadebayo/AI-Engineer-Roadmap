@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-17T08:12:34.604Z",
-  "totalDone": 0,
+  "lastUpdated": "2026-03-22T09:11:00.938Z",
+  "totalDone": 1,
   "totalSubtopics": 157,
-  "percentComplete": 0,
+  "percentComplete": 1,
   "months": [
     {
       "month": 1,
@@ -10,7 +10,7 @@
       "topics": [
         {
           "name": "Python OOP & clean functions",
-          "done": 0,
+          "done": 1,
           "total": 5
         },
         {
